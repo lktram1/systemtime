@@ -1,0 +1,13 @@
+C:\Users\Admin\Desktop\systemtime\bin\Debug\netcoreapp3.1\systemtime.exe
+C:\Users\Admin\Desktop\systemtime\bin\Debug\netcoreapp3.1\systemtime.deps.json
+C:\Users\Admin\Desktop\systemtime\bin\Debug\netcoreapp3.1\systemtime.runtimeconfig.json
+C:\Users\Admin\Desktop\systemtime\bin\Debug\netcoreapp3.1\systemtime.runtimeconfig.dev.json
+C:\Users\Admin\Desktop\systemtime\bin\Debug\netcoreapp3.1\systemtime.dll
+C:\Users\Admin\Desktop\systemtime\bin\Debug\netcoreapp3.1\systemtime.pdb
+C:\Users\Admin\Desktop\systemtime\obj\Debug\netcoreapp3.1\systemtime.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\systemtime\obj\Debug\netcoreapp3.1\systemtime.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\systemtime\obj\Debug\netcoreapp3.1\systemtime.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\systemtime\obj\Debug\netcoreapp3.1\systemtime.AssemblyInfo.cs
+C:\Users\Admin\Desktop\systemtime\obj\Debug\netcoreapp3.1\systemtime.dll
+C:\Users\Admin\Desktop\systemtime\obj\Debug\netcoreapp3.1\systemtime.pdb
+C:\Users\Admin\Desktop\systemtime\obj\Debug\netcoreapp3.1\systemtime.genruntimeconfig.cache
